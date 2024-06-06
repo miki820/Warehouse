@@ -1,0 +1,36 @@
+Id: 1
+Name: TV
+Description: Telecommunication medium for transmitting moving images and sound.
+Price: 2664.8
+Amount: 10
+
+Id: 2
+Name: Dishwasher
+Description: Machine that is used to clean dishware, cookware, and cutlery automatically.
+Price: 1399.0
+Amount: 15
+
+Id: 3
+Name: Washing Machine
+Description: Home appliance used to wash laundry.
+Price: 2500.74
+Amount: 20
+
+Id: 4
+Name: Computer
+Description: Electronic device for storing and processing data.
+Price: 3999.0
+Amount: 25
+
+Id: 5
+Name: Camera
+Description: Device for recording visual images in the form of photographs or video signals.
+Price: 2199.0
+Amount: 30
+
+Id: 6
+Name: Ball
+Description: You can have fun with it
+Price: 20.0
+Amount: 10
+
